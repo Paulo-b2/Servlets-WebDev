@@ -1,0 +1,6 @@
+edu\br\ifnmg\pauloapp\DistanciaServlet.class
+edu\br\ifnmg\pauloapp\ConversorServlet.class
+edu\br\ifnmg\pauloapp\resources\Calculadora.class
+edu\br\ifnmg\pauloapp\resources\Ponto.class
+edu\br\ifnmg\pauloapp\resources\ConversorTemperatura.class
+edu\br\ifnmg\pauloapp\CalculadoraServlet.class
